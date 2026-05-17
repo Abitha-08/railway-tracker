@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Express 101",
+    "from": "Hyderabad",
+    "to": "Chennai",
+    "status": "On Time",
+    "location": "Vijayawada Junction",
+    "platform": 3,
+    "arrival": "10:30 AM",
+    "delay": "0 Minutes"
+  },
+  {
+    "id": 2,
+    "name": "Superfast 202",
+    "from": "Delhi",
+    "to": "Mumbai",
+    "status": "Delayed",
+    "location": "Nagpur Station",
+    "platform": 5,
+    "arrival": "12:15 PM",
+    "delay": "25 Minutes"
+  },
+  {
+    "id": 3,
+    "name": "Night Rider 303",
+    "from": "Bangalore",
+    "to": "Goa",
+    "status": "Arriving Soon",
+    "location": "Hubli Railway Station",
+    "platform": 2,
+    "arrival": "08:45 PM",
+    "delay": "5 Minutes"
+  }
+]
